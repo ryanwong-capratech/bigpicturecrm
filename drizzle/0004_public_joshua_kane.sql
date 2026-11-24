@@ -1,0 +1,1 @@
+ALTER TABLE `custom_fields` ADD `groupName` varchar(100) DEFAULT '其他';
